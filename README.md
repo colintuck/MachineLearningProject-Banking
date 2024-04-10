@@ -1,6 +1,6 @@
 # MachineLearningProject-Banking
 Machine Learning Project - Banking Data
-This was a project using Python to code a machine learning classifier. The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y.
+This was a project using Python to code a machine learning classifier. The data is a collection of the results of direct marketing campaigns (phone calls) by a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 Source Citation:
 
